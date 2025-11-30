@@ -8,28 +8,43 @@ Eu sunt **mihaipopescuionescu**.
 
 Ceea ce vedeți aici este rezultatul unei operațiuni anonime. Am reușit să "sparg" (hack) și să extrag conținutul din **Gradox** și drive-urile asociate facultății de **Inginerie Informatică de la USC**.
 
-În acest depozit (repository), am filtrat și am încărcat **DOAR EXAMENELE**, redenumite și organizate, pentru a fi ușor de găsit.
-
-Totul este acum public.
+Am fragmentat informația pentru siguranță. Totul este acum public.
 
 ---
 
-### 📦 Conținutul acestui Repo (Doar Examene):
-* ✅ **Anul 1** (Examene organizate)
-* ✅ **Anul 2** (Examene organizate)
-* ✅ **Anul 3** (Examene organizate)
+### 🌐 REȚEAUA DE DEPOZITE (Repositories)
+
+Accesați mai jos arhivele de examene organizate pe ani:
+
+* 📘 **[Examene Anul 1 (Gradul I)](https://github.com/mihaipopescuionescu/examene-de-gradul-I)**
+* 📗 **[Examene Anul 2 (Gradul II)](https://github.com/mihaipopescuionescu/examene-de-gradul-II)**
+* 📙 **[Examene Anul 3 (Gradul III)](https://github.com/mihaipopescuionescu/examene-de-gradul-III)**
+* 📕 **[Examene Anul 4 (Gradul IV)](https://github.com/mihaipopescuionescu/examene-de-gradul-IV)**
 
 ---
 
-### 🚨 MISIUNE: RECUPERAREA GRADOX-ULUI (Sursa Originală)
+### 🏛️ VIZIUNEA: UN "EDÉN" DIGITAL UNIFICAT
 
-Atenție: Eu am salvat aici doar examenele. **GradoX-ul original conține mult mai mult** (cursuri, laboratoare, proiecte, notițe) care nu sunt aici.
+Eu mi-am făcut partea. Am salvat și curățat examenele. Dar informația este încă fragmentată.
 
-**Vă rog să distribuiți acest link URGENT pe grupurile de WhatsApp/Telegram ale facultății.** Este datoria voastră să descărcați și să salvați restul materialelor înainte să dispară.
+**Fac un apel către vreun "crypto-bro" bogat, un data-hoarder maniac sau un developer vizionar din facultate.**
+
+Avem nevoie de un **EDÉN IDILIC**. Un singur loc, o interfață supremă (centralizată sau descentralizată pe IPFS/Filecoin?) care să unifice:
+1.  Aceste arhive de examene curate.
+2.  GradoX-ul original (cu cursurile și laboratoarele brute).
+3.  Toate celelalte drive-uri izolate ale studenților.
+
+Vă rog, construiți "Biblioteca din Alexandria" a ingineriei. Faceți-o nemuritoare.
+
+---
+
+### 🔗 Sursa Originală (Raw Data - GradoX)
+
+Pentru cei care vor să descarce totul (cursuri, proiecte, fișiere nerenumite) pentru a construi acest Edén:
 
 📂 **[Acces Google Drive Original (FULL DATA)](https://drive.google.com/drive/folders/1iv_3iJG9Fh4Uhm8Q8T_RLpglAqbqVbpJ?usp=sharing)**
 
-*Răspândiți link-ul. Informația trebuie să fie liberă.*
+*Informația trebuie să fie liberă.*
 
 ---
 > *Uploaded by mihaipopescuionescu*
