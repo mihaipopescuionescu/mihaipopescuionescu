@@ -6,28 +6,30 @@
 
 Eu sunt **mihaipopescuionescu**.
 
-Ceea ce vedeți aici este rezultatul unei operațiuni anonime. Am reușit să "sparg" (hack) și să extrag întregul conținut din **Gradox** și drive-urile asociate facultății de **Inginerie Informatică de la USC (Universidade de Santiago de Compostela)**.
+Ceea ce vedeți aici este rezultatul unei operațiuni anonime. Am reușit să "sparg" (hack) și să extrag conținutul din **Gradox** și drive-urile asociate facultății de **Inginerie Informatică de la USC**.
 
-Am decis să fac acest pas pentru a elibera informația. Aici veți găsi toate resursele, examenele, cursurile și materialele care au fost colectate de-a lungul anilor, acum organizate și accesibile.
+În acest depozit (repository), am filtrat și am încărcat **DOAR EXAMENELE**, redenumite și organizate, pentru a fi ușor de găsit.
 
-Totul este acum public. Totul este al vostru.
-
----
-
-### 📦 Conținutul acestui Repo:
-* ✅ **Anul 1** (Examene redenumite și organizate)
-* ✅ **Anul 2** (Materiale structurate)
-* ✅ **Resurse Extra**
+Totul este acum public.
 
 ---
 
-### 🔗 Sursa Originală (Raw Data)
+### 📦 Conținutul acestui Repo (Doar Examene):
+* ✅ **Anul 1** (Examene organizate)
+* ✅ **Anul 2** (Examene organizate)
+* ✅ **Anul 3** (Examene organizate)
 
-Pentru cei care doresc să acceseze **GradoX-ul original**, care conține mai multe fișiere decât am urcat eu aici și păstrează numele originale (fără redenumire/organizare), puteți accesa link-ul de mai jos:
+---
 
-📂 **[Acces Google Drive Original (GradoX)](https://drive.google.com/drive/folders/1iv_3iJG9Fh4Uhm8Q8T_RLpglAqbqVbpJ?usp=sharing)**
+### 🚨 MISIUNE: RECUPERAREA GRADOX-ULUI (Sursa Originală)
 
-*Informația trebuie să fie liberă.*
+Atenție: Eu am salvat aici doar examenele. **GradoX-ul original conține mult mai mult** (cursuri, laboratoare, proiecte, notițe) care nu sunt aici.
+
+**Vă rog să distribuiți acest link URGENT pe grupurile de WhatsApp/Telegram ale facultății.** Este datoria voastră să descărcați și să salvați restul materialelor înainte să dispară.
+
+📂 **[Acces Google Drive Original (FULL DATA)](https://drive.google.com/drive/folders/1iv_3iJG9Fh4Uhm8Q8T_RLpglAqbqVbpJ?usp=sharing)**
+
+*Răspândiți link-ul. Informația trebuie să fie liberă.*
 
 ---
 > *Uploaded by mihaipopescuionescu*
