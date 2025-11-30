@@ -38,11 +38,15 @@ Vă rog, construiți "Biblioteca din Alexandria" a ingineriei. Faceți-o nemurit
 
 ---
 
-### 🔗 Sursa Originală (Raw Data - GradoX)
+### 🔗 Sursele Originale & Bibliotecă (Raw Data)
 
-Pentru cei care vor să descarce totul (cursuri, proiecte, fișiere nerenumite) pentru a construi acest Edén:
+Pentru cei care vor să descarce totul (cursuri, proiecte, fișiere nerenumite) pentru a construi acest Edén, iată accesul la arhivele brute:
 
-📂 **[Acces Google Drive Original (FULL DATA)](https://drive.google.com/drive/folders/1iv_3iJG9Fh4Uhm8Q8T_RLpglAqbqVbpJ?usp=sharing)**
+📂 **[GradoX Legacy (Arhiva Veche)](https://drive.google.com/drive/folders/1iv_3iJG9Fh4Uhm8Q8T_RLpglAqbqVbpJ?usp=sharing)**
+
+📂 **[Drive Original USC (Resurse Complete)](https://drive.google.com/drive/u/0/folders/1RcKbNDOwFGNITnvdSRpc-NJoZhG4mnlW)**
+
+📚 **[Biblioteca Secretă (Cărți / Books)](https://drive.google.com/drive/u/0/folders/1ucJ9cMp_Wkqtbfx7lYjqItggfszlKaBW)**
 
 *Informația trebuie să fie liberă.*
 
