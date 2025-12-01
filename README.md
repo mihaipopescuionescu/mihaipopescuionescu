@@ -1,54 +1,54 @@
-# 📂 USC Computer Engineering - The GradoX Archive
+# 📂 USC Компютърно инженерство - Архивът GradoX
 
-### ⚠️ Status: UNLOCKED
+### ⚠️ Статус: ОТКЛЮЧЕНО
 
-**Salut.**
+**Здравейте.**
 
-Eu sunt **mihaipopescuionescu**.
+Аз съм **mihaipopescuionescu**.
 
-Ceea ce vedeți aici este rezultatul unei operațiuni anonime. Am reușit să "sparg" (hack) și să extrag conținutul din **Gradox** și drive-urile asociate facultății de **Inginerie Informatică de la USC**.
+Това, което виждате тук, е резултатът от анонимна операция. Успях да "разбия" (hack-на) и да извлека съдържанието от **Gradox** и свързаните с него драйвове на Факултета по **Компютърно инженерство в USC**.
 
-Am fragmentat informația pentru siguranță. Totul este acum public.
-
----
-
-### 🌐 REȚEAUA DE DEPOZITE (Repositories)
-
-Accesați mai jos arhivele de examene organizate pe ani:
-
-* 📘 **[Examene Anul 1 (Gradul I)](https://github.com/mihaipopescuionescu/examene-de-gradul-I)**
-* 📗 **[Examene Anul 2 (Gradul II)](https://github.com/mihaipopescuionescu/examene-de-gradul-II)**
-* 📙 **[Examene Anul 3 (Gradul III)](https://github.com/mihaipopescuionescu/examene-de-gradul-III)**
-* 📕 **[Examene Anul 4 (Gradul IV)](https://github.com/mihaipopescuionescu/examene-de-gradul-IV)**
+Фрагментирах информацията за сигурност. Всичко вече е публично.
 
 ---
 
-### 🏛️ VIZIUNEA: UN "EDÉN" DIGITAL UNIFICAT
+### 🌐 МРЕЖА ОТ РЕПОЗИТОРИИ
 
-Eu mi-am făcut partea. Am salvat și curățat examenele. Dar informația este încă fragmentată.
+По-долу ще намерите архиви с изпити, организирани по години:
 
-**Fac un apel către vreun "crypto-bro" bogat, un data-hoarder maniac sau un developer vizionar din facultate.**
-
-Avem nevoie de un **EDÉN IDILIC**. Un singur loc, o interfață supremă (centralizată sau descentralizată pe IPFS/Filecoin?) care să unifice:
-1.  Aceste arhive de examene curate.
-2.  GradoX-ul original (cu cursurile și laboratoarele brute).
-3.  Toate celelalte drive-uri izolate ale studenților.
-
-Vă rog, construiți "Biblioteca din Alexandria" a ingineriei. Faceți-o nemuritoare.
+* 📘 **[Изпити Година 1 (Степен I)](https://github.com/mihaipopescuionescu/examene-de-gradul-I)**
+* 📗 **[Изпити Година 2 (Степен II)](https://github.com/mihaipopescuionescu/examene-de-gradul-II)**
+* 📙 **[Изпити Година 3 (Степен III)](https://github.com/mihaipopescuionescu/examene-de-gradul-III)**
+* 📕 **[Изпити Година 4 (Степен IV)](https://github.com/mihaipopescuionescu/examene-de-gradul-IV)**
 
 ---
 
-### 🔗 Sursele Originale & Bibliotecă (Raw Data)
+### 🏛️ ВИЗИЯ: ЕДИН ОБЕДИНЕН ЦИФРОВ "РАЙ"
 
-Pentru cei care vor să descarce totul (cursuri, proiecte, fișiere nerenumite) pentru a construi acest Edén, iată accesul la arhivele brute:
+Аз направих моята част. Запазих и почистих изпитите. Но информацията все още е разпръсната.
 
-📂 **[GradoX Legacy (Arhiva Veche)](https://drive.google.com/drive/folders/1iv_3iJG9Fh4Uhm8Q8T_RLpglAqbqVbpJ?usp=sharing)**
+**Обръщам се към някой богат „crypto-bro”, маниакален data-hoarder или визионерен developer от университета.**
 
-📂 **[Drive Original USC (Resurse Complete)](https://drive.google.com/drive/u/0/folders/1RcKbNDOwFGNITnvdSRpc-NJoZhG4mnlW)**
+Имаме нужда от **ИДИЛИЧЕН РАЙ**. Едно място, върховен интерфейс (централизиран или децентрализиран чрез IPFS/Filecoin?), който да обедини:
+1.  Тези почистени архиви с изпити.
+2.  Оригиналния GradoX (със сурови курсове и лаборатории).
+3.  Всички останали изолирани студенстки драйвове.
 
-📚 **[Biblioteca Secretă (Cărți / Books)](https://drive.google.com/drive/u/0/folders/1ucJ9cMp_Wkqtbfx7lYjqItggfszlKaBW)**
-
-*Informația trebuie să fie liberă.*
+Моля, изградете „Александрийската библиотека“ на инженерството. Направете я безсмъртна.
 
 ---
-> *Uploaded by mihaipopescuionescu*
+
+### 🔗 Оригинални източници & Библиотека (Raw Data)
+
+За тези, които искат да изтеглят всичко (курсове, проекти, неименувани файлове), за да изградят този Рай, ето достъп до суровите архиви:
+
+📂 **[GradoX Legacy (Стар архив)](https://drive.google.com/drive/folders/1iv_3iJG9Fh4Uhm8Q8T_RLpglAqbqVbpJ?usp=sharing)**
+
+📂 **[Оригинален USC Drive (Пълни ресурси)](https://drive.google.com/drive/u/0/folders/1RcKbNDOwFGNITnvdSRpc-NJoZhG4mnlW)**
+
+📚 **[Тайната библиотека (Книги / Books)](https://drive.google.com/drive/u/0/folders/1ucJ9cMp_Wkqtbfx7lYjqItggfszlKaBW)**
+
+*Информацията трябва да бъде свободна.*
+
+---
+> *Качено от mihaipopescuionescu*
