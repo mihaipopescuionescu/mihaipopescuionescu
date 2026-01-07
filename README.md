@@ -17,8 +17,8 @@
 По-долу ще намерите архиви с изпити, организирани по години:
 
 * 📘 **[Изпити Година 1 (Степен I)](https://github.com/mihaipopescuionescu/-1-I-)**
-* 📗 **[Изпити Година 2 (Степен II)](https://github.com/mihaipopescuionescu/-3-II-)**
-* 📙 **[Изпити Година 3 (Степен III)](https://github.com/mihaipopescuionescu/-2-III-)**
+* 📗 **[Изпити Година 2 (Степен II)](https://github.com/mihaipopescuionescu/-2-II-)**
+* 📙 **[Изпити Година 3 (Степен III)](https://github.com/mihaipopescuionescu/-3-III-)**
 * 📕 **[Изпити Година 4 (Степен IV)](https://github.com/mihaipopescuionescu/-4-IV-)**
 
 ---
